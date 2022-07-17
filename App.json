@@ -1,0 +1,13 @@
+{
+    "expo": {
+     "name": "uber-eats",
+     "version": "1.0.0",
+     "slug": "uber-eats",
+     "ios": {
+       "buildNumber": "1.0.0"
+     },
+     "android": {
+       "versionCode": 1
+     }
+    }
+  }
